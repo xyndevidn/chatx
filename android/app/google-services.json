@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275776191085",
+    "project_id": "new-chatx-dbddf",
+    "storage_bucket": "new-chatx-dbddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275776191085:android:46df6b2d93ca51e98e1d64",
+        "android_client_info": {
+          "package_name": "com.xyndev.new_chatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275776191085-fct72d5vnmm6t6p9iohd5htptn7m0hfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AFhKg7u7O5dWlSb4mDxPvLRROV8M6JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275776191085-fct72d5vnmm6t6p9iohd5htptn7m0hfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
